@@ -1,0 +1,23 @@
+{
+  "name": "lee_valley_level",
+  "authors": [
+    "Keith <keith@vool.ie>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chartist-plugin-pointlabels": "~0.0.4",
+    "chartist-plugin-tooltip": "git@github.com:Globegitter/chartist-plugin-tooltip.git#master",
+    "jquery": "~2.2.0"
+  }
+}
