@@ -35,7 +35,7 @@ $(document).ready(function() {
 	};
 
 	var chart_opts = {
-		high : 5,
+		high : 6,
 		low : 0,
 		showArea : true,
 		showLine : false,
